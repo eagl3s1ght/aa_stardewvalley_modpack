@@ -1,0 +1,12 @@
+{
+   "Name": "[CP] Alchemy_Shop",
+   "Author": "zirolive69",
+   "Description": "Map strings.Part of the Alchemy Shop",
+   "Version": "1.4.0",
+   "UniqueID": "zirolive69.Alchemy_Shop_CP",
+   "UpdateKeys": [ "" ],
+"MinimumApiVersion": "3.0.1",
+   "ContentPackFor": {
+       "UniqueID": "Pathoschild.ContentPatcher"
+    },
+}
