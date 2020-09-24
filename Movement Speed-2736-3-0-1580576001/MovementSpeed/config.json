@@ -1,4 +1,4 @@
 {
-  "MovementSpeedMultiplier": 2,
+  "MovementSpeedMultiplier": 2.0,
   "ToolChargeDelay": 200
 }

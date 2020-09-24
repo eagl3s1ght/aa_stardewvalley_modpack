@@ -1,0 +1,18 @@
+{
+  "EnableCategories": true,
+  "LargeChest": {
+    "SpritePath": "LargeChest.png",
+    "SpriteBWPath": "LargeChestBW.png",
+    "SpriteBracesPath": "LargeChestBraces.png"
+  },
+  "MagicChest": {
+    "SpritePath": "MagicChest.png",
+    "SpriteBWPath": "MagicChestBW.png",
+    "SpriteBracesPath": "MagicChestBraces.png"
+  },
+  "SuperMagicChest": {
+    "SpritePath": "SuperMagicChest.png",
+    "SpriteBWPath": "SuperMagicChestBW.png",
+    "SpriteBracesPath": "SuperMagicChestBraces.png"
+  }
+}
