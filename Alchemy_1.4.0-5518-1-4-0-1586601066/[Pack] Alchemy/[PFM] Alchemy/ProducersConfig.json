@@ -1,8 +1,0 @@
-[
-	{
-		"ProducerName":"Alchemy-Still", //Name of the producer
-		"AlternateFrameProducing": false, //If the producer should use the alternate frame when producing.
-		"AlternateFrameWhenReady": true, //If the producer should use the alternate frame and ready for harvest.
-	},
-
-]
