@@ -1,0 +1,221 @@
+﻿{
+	"Format": "1.11.0",
+	"Changes": [
+//---------------------------------------------------------------------------------------------------------
+//English
+//---------------------------------------------------------------------------------------------------------				
+	    {
+		"Action": "EditData",
+		"Target": "Strings/StringsFromMaps",
+		"When": {
+		"Language": "en",												// English
+				},
+		"Entries": {
+		"AlchemySign.1": "Closed until winter",
+		"AlchemySign.2": "Liz Alchemy all kind^Alchemy converters and potions^Closed until Monday",
+		"Alchemy.1": "Liz Alchemy all kind^Alchemy converters and potions^Open Monto Wed from 9 AM to 17 PM",
+		"Alchemy.2": "{{Random: What a beautiful sword., It looks sharp., Liz: Do not touch.}}",
+		"Alchemy.3": "{{Random: Liz: !HANDS OFF!, Liz: Do not touch that!, Liz: This will be my next best seller.}}",
+		"Alchemy.4": "{{Random: Liz: Hi there, Liz: Are you looking for something?, Liz: Murmmml....}}",
+					},
+				},
+//---------------------------------------------------------------------------------------------------------
+//German from me ^^
+//---------------------------------------------------------------------------------------------------------
+		{
+		"Action": "EditData",
+		"Target": "Strings/StringsFromMaps",
+		"When": {
+		"Language": "de",												//German
+				},
+		"Entries": {
+		"AlchemySign.1": "Geschlossen bis zum Winter",
+		"AlchemySign.2": "Liz Alchemieallerei^Alchemieumwandler und Tränke^Geschlossen bis Montag",
+		"Alchemy.1": "Liz Alchemieallerei^Alchemieumwandler und Tränke^Geöffnet: Mo-Mi 9 - 17 Uhr",
+		"Alchemy.2": "{{Random: Was für ein schönes Schwert., Es sieht scharf aus., Liz: Nicht anfassen.}}",
+		"Alchemy.3": "{{Random: Liz: !FINGERWEG!, Liz: Fass das nicht an!, Liz: Das wird mein nächster Verkaufsschlager.}}",
+		"Alchemy.4": "{{Random: Liz: Hallo, Liz: Suchst du was?, Liz: Murmmml....}}",
+					},
+				},
+//---------------------------------------------------------------------------------------------------------
+//Spanish (at this moment english)
+//---------------------------------------------------------------------------------------------------------				
+	    {
+		"Action": "EditData",
+		"Target": "Strings/StringsFromMaps",
+		"When": {
+		"Language": "es",												//Spanish
+				},
+		"Entries": {
+		"AlchemySign.1": "Closed until winter",
+		"AlchemySign.2": "Liz Alchemy all kind^Alchemy converters and potions^Closed until Monday",
+		"Alchemy.1": "Liz Alchemy all kind^Alchemy converters and potions^Open Monto Wed from 9 AM to 17 PM",
+		"Alchemy.2": "{{Random: What a beautiful sword., It looks sharp., Liz: Do not touch.}}",
+		"Alchemy.3": "{{Random: Liz: !HANDS OFF!, Liz: Do not touch that!, Liz: This will be my next best seller.}}",
+		"Alchemy.4": "{{Random: Liz: Hi there, Liz: Are you looking for something?, Liz: Murmmml....}}",
+					},
+				},
+//---------------------------------------------------------------------------------------------------------
+//French (at this moment english)
+//---------------------------------------------------------------------------------------------------------				
+	    {
+		"Action": "EditData",
+		"Target": "Strings/StringsFromMaps",
+		"When": {
+		"Language": "fr",												//French
+				},
+		"Entries": {
+		"AlchemySign.1": "Closed until winter",
+		"AlchemySign.2": "Liz Alchemy all kind^Alchemy converters and potions^Closed until Monday",
+		"Alchemy.1": "Liz Alchemy all kind^Alchemy converters and potions^Open Monto Wed from 9 AM to 17 PM",
+		"Alchemy.2": "{{Random: What a beautiful sword., It looks sharp., Liz: Do not touch.}}",
+		"Alchemy.3": "{{Random: Liz: !HANDS OFF!, Liz: Do not touch that!, Liz: This will be my next best seller.}}",
+		"Alchemy.4": "{{Random: Liz: Hi there, Liz: Are you looking for something?, Liz: Murmmml....}}",
+					},
+				},
+//---------------------------------------------------------------------------------------------------------
+//Hungarian (at this moment english)
+//---------------------------------------------------------------------------------------------------------				
+	    {
+		"Action": "EditData",
+		"Target": "Strings/StringsFromMaps",
+		"When": {
+		"Language": "hu",												//Hungarian
+				},
+		"Entries": {
+		"AlchemySign.1": "Closed until winter",
+		"AlchemySign.2": "Liz Alchemy all kind^Alchemy converters and potions^Closed until Monday",
+		"Alchemy.1": "Liz Alchemy all kind^Alchemy converters and potions^Open Monto Wed from 9 AM to 17 PM",
+		"Alchemy.2": "{{Random: What a beautiful sword., It looks sharp., Liz: Do not touch.}}",
+		"Alchemy.3": "{{Random: Liz: !HANDS OFF!, Liz: Do not touch that!, Liz: This will be my next best seller.}}",
+		"Alchemy.4": "{{Random: Liz: Hi there, Liz: Are you looking for something?, Liz: Murmmml....}}",
+					},
+				},
+//---------------------------------------------------------------------------------------------------------
+//Japanese (at this moment english)
+//---------------------------------------------------------------------------------------------------------				
+	    {
+		"Action": "EditData",
+		"Target": "Strings/StringsFromMaps",
+		"When": {
+		"Language": "ja",												//Japanese
+				},
+		"Entries": {
+		"AlchemySign.1": "Closed until winter",
+		"AlchemySign.2": "Liz Alchemy all kind^Alchemy converters and potions^Closed until Monday",
+		"Alchemy.1": "Liz Alchemy all kind^Alchemy converters and potions^Open Monto Wed from 9 AM to 17 PM",
+		"Alchemy.2": "{{Random: What a beautiful sword., It looks sharp., Liz: Do not touch.}}",
+		"Alchemy.3": "{{Random: Liz: !HANDS OFF!, Liz: Do not touch that!, Liz: This will be my next best seller.}}",
+		"Alchemy.4": "{{Random: Liz: Hi there, Liz: Are you looking for something?, Liz: Murmmml....}}",
+					},
+				},
+//---------------------------------------------------------------------------------------------------------
+//Italian (at this moment english)
+//---------------------------------------------------------------------------------------------------------				
+	    {
+		"Action": "EditData",
+		"Target": "Strings/StringsFromMaps",
+		"When": {
+		"Language": "it",												//Italian
+				},
+		"Entries": {
+		"AlchemySign.1": "Closed until winter",
+		"AlchemySign.2": "Liz Alchemy all kind^Alchemy converters and potions^Closed until Monday",
+		"Alchemy.1": "Liz Alchemy all kind^Alchemy converters and potions^Open Monto Wed from 9 AM to 17 PM",
+		"Alchemy.2": "{{Random: What a beautiful sword., It looks sharp., Liz: Do not touch.}}",
+		"Alchemy.3": "{{Random: Liz: !HANDS OFF!, Liz: Do not touch that!, Liz: This will be my next best seller.}}",
+		"Alchemy.4": "{{Random: Liz: Hi there, Liz: Are you looking for something?, Liz: Murmmml....}}",
+					},
+				},
+//---------------------------------------------------------------------------------------------------------
+//Korean from jina2ya
+//---------------------------------------------------------------------------------------------------------				
+	    {
+		"Action": "EditData",
+		"Target": "Strings/StringsFromMaps",
+		"When": {
+		"Language": "ko", //Korean
+				},
+		"Entries": {
+		"AlchemySign.1": "겨울까지 휴점",
+		"AlchemySign.2": "리즈의 만물 연금술상^연금술 변환기와 각종 물약^월요일까지 휴무",
+		"Alchemy.1": "리즈의 만물 연금술상^연금술 변환과 물약판매^영업시간:월-수  오전 9시부터 오후 5시까지",
+		"Alchemy.2": "{{Random: 아름다운 검이다., 몹시 날카로워 보인다., 리즈: 만지지 마.}}",
+		"Alchemy.3": "{{Random: 리즈: !손 조심해!, 리즈: 만지지 마!, 리즈: 이건 내 역작이야.}}",
+		"Alchemy.4": "{{Random: 리즈: 안녕하세요., 리즈: 찾는 거라도 있나요?, 리즈: 흐음....}}",
+					},
+				},
+//---------------------------------------------------------------------------------------------------------
+//Portuguese from Ertila
+//---------------------------------------------------------------------------------------------------------				
+        {
+        "Action": "EditData",
+        "Target": "Strings/StringsFromMaps",
+        "When": {
+        "Language": "pt",                                                //Portuguese
+                },
+        "Entries": {
+        "AlchemySign.1": "Fechada até o inverno",
+        "AlchemySign.2": "Liz Alquimia de todos os tipos^Alquimia de conversão e poções^Fechada até Segunda.",
+        "Alchemy.1": "Liz Alquimia de todos os tipos^Alquimia de conversão e poções^Aberto de Seg-Qua das 9 às 17 horas.",
+        "Alchemy.2": "{{Random: Que espada bonita., Parece afiada., Liz: Não toque.}}",
+        "Alchemy.3": "{{Random: Liz: !SE LIGA!, Liz: Não toque nisto!, Liz: Esta será minha próxima grande venda.}}",
+        "Alchemy.4": "{{Random: Liz: Olá, Liz: Você está procurando algo?, Liz: Murmmml....}}",
+                    },
+                },
+//---------------------------------------------------------------------------------------------------------
+//Russian from Ghost3lboom
+//---------------------------------------------------------------------------------------------------------				
+	    {
+		"Action": "EditData",
+		"Target": "Strings/StringsFromMaps",
+		"When": {
+		"Language": "ru",												//Russian
+				},
+		"Entries": {
+		"AlchemySign.1": "Закрыто до зимы",
+		"AlchemySign.2": "Все виды алхимии Лиз^Алхимические преобразователи и зелья^Закрыто до понедельника",
+		"Alchemy.1": "Все виды алхимии Лиз^Алхимические преобразователи и зелья^Открыто Пн-Ср, с 9 утра до 17 вечера",
+		"Alchemy.2": "{{Random: Какой красивый меч!, Похоже, он острый., Liz: Не трогай меня.}}",
+		"Alchemy.3": "{{Random: Liz: РУКИ ПРОЧЬ!, Liz: Не трогай это!, Liz: Это будет мой следующий бестселлер.}}",
+		"Alchemy.4": "{{Random: Liz: Привет, Liz: Вы что-то ищите?, Liz: Мурмммм....}}",
+					},
+				},
+//---------------------------------------------------------------------------------------------------------
+//Chinese from vNIANHUAv 
+//---------------------------------------------------------------------------------------------------------				
+	    {
+		"Action": "EditData",
+		"Target": "Strings/StringsFromMaps",
+		"When": {
+		"Language": "zh",												//Chinese
+				},
+		"Entries": {
+		"AlchemySign.1": "冬天开门",
+		"AlchemySign.2": "利兹炼金术^炼金转换器和魔药^到星期一才开门",
+		"Alchemy.1": "利兹炼金术^炼金转换器和魔药^周一到周三的 9 AM–17 PM开门",
+		"Alchemy.2": "{{Random: 多么漂亮的剑., 它看起来十分锋利., Liz: 不要碰.}}",
+		"Alchemy.3": "{{Random: Liz: !把手拿开!, Liz: 不要这样碰它!, Liz: 这将是我的下一个畅销物品.}}",
+		"Alchemy.4": "{{Random: Liz: 你好, Liz: 你是在寻找什么东西吗?, Liz: Murmmml....}}",
+					},
+				},
+//---------------------------------------------------------------------------------------------------------
+//Turkish (at this moment english)
+//---------------------------------------------------------------------------------------------------------				
+	    {
+		"Action": "EditData",
+		"Target": "Strings/StringsFromMaps",
+		"When": {
+		"Language": "tr",												//Turkish
+				},
+		"Entries": {
+		"AlchemySign.1": "Closed until winter",
+		"AlchemySign.2": "Liz Alchemy all kind^Alchemy converters and potions^Closed until Monday",
+		"Alchemy.1": "Liz Alchemy all kind^Alchemy converters and potions^Open Monto Wed from 9 AM to 17 PM",
+		"Alchemy.2": "{{Random: What a beautiful sword., It looks sharp., Liz: Do not touch.}}",
+		"Alchemy.3": "{{Random: Liz: !HANDS OFF!, Liz: Do not touch that!, Liz: This will be my next best seller.}}",
+		"Alchemy.4": "{{Random: Liz: Hi there, Liz: Are you looking for something?, Liz: Murmmml....}}",
+					},
+				},				
+    ]
+}

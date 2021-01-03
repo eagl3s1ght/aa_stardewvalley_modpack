@@ -1,0 +1,45 @@
+﻿{
+  "mergeMaps": [
+    {
+      "name": "Town",											//      "name": "Beach-NightMarket",
+      "file": "assets/AlchemyShop_open.tmx",
+      "sourceArea": [ 0, 0, 5, 5, ],							//	 "Beach-NightMarket", [ 42, 16, ],[ 51, 15, ],	position 2				
+      "position": [ 78, 81 ],	
+      "conditions": "z spring/z summer/z fall/d Thu Fri Sat Sun/y 2",			//open Mon - Wed invertiert....
+    "removeEmpty": false,
+    },
+    {
+      "name": "Town",
+      "file": "assets/AlchemyShop_close_winter.tmx",
+      "sourceArea": [ 0, 0, 5, 6, ],
+      "position": [ 78, 81 ],	
+      "conditions": "z spring/z summer/z fall/d Mon Tue Wed/y 2",
+    "removeEmpty": false,
+    },
+    {
+      "name": "Town",
+      "file": "assets/AlchemyShop_close_spring.tmx",
+      "sourceArea": [ 0, 0, 5, 6, ],
+      "position": [ 78, 81 ],	
+      "conditions": "z summer/z fall/z winter/y 3",
+    "removeEmpty": false,
+    },
+	{
+      "name": "Town",
+      "file": "assets/AlchemyShop_close_summer.tmx",
+      "sourceArea": [ 0, 0, 5, 6, ],
+      "position": [ 78, 81 ],	
+      "conditions": "z spring/z fall/z winter/y 3",
+    "removeEmpty": false,
+    },
+	{
+      "name": "Town",
+      "file": "assets/AlchemyShop_close_fall.tmx",
+      "sourceArea": [ 0, 0, 5, 6, ],
+      "position": [ 78, 81 ],	
+      "conditions": "z spring/z summer/z winter/y 3",
+    "removeEmpty": false,
+    },
+
+  ]
+}

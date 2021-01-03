@@ -1,0 +1,49 @@
+﻿{
+	"Name": "Warrior Potion Recipe",
+	"Description": "=Warrior-Potion= (Mighty Seeds+Small-Bottle)", // = is a star
+	"Category": "Junk",
+	"Edibility": -300,
+	"Price": 1,
+	"IsColored": false,
+	"Recipe": null,
+	"CanPurchase": false,
+		"GiftTastes": {			//SVE 1.9.4 "MarlonFay", "Sophia", "Olivia", "Andy", "Victor", "Susan", "MorrisTod", 
+		"Love": [],
+		"Like": [],
+		"Neutral": [],
+		"Dislike": [],
+		"Hat": [ "MarlonFay", "Sophia", "Olivia", "Andy", "Victor", "Susan", "MorrisTod",  "Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny","Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard", "Willy", "Krobus"],
+	},
+	"NameLocalization": // = is a star 
+	{
+	// "es": "",
+	"ko": "전사의 물약 제조법",
+	"de": "Kriegertrank Rezept",
+	// "fr": "",
+	// "hu": "",
+	// "it": "",
+	// "ja": "",
+    "pt": "Receita da Poção do Guerreiro",
+	"ru": "Рецепт зелья воина",
+	// "tr": "",
+	 "zh": "战士药水配方",
+	}, 
+	"DescriptionLocalization": 
+	{
+	// "es": "",
+	"ko": "=전사의 물약= (마이트 씨앗+작은 병)",
+	"de": "=Kriegertrank= (Machtsamen+Kleine-Flasche)",
+	// "fr": "",
+	// "hu": "",
+	// "it": "",
+	// "ja": "",
+    "pt": "=Poção-do-Guerreiro= (Sementes-Poderosas=Frasco-Pequeno)",
+	"ru": "=Зелье-воина= (Семена-силы+Бутылочка)",
+	// "tr": "",
+	 "zh": "=战士药水= (强大之种+小瓶子)",
+	},
+		"ContextTags": [
+		"potion_item",
+		"alchemy_item",
+	]
+}
