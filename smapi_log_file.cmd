@@ -1,0 +1,1 @@
+notepad %appdata%\StardewValley\ErrorLogs\SMAPI-latest.txt

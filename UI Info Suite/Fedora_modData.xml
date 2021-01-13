@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<options>
+  <option name="ShowLuckIcon">True</option>
+  <option name="ShowLevelUpAnimation">True</option>
+  <option name="ShowExperienceBar">True</option>
+  <option name="AllowExperienceBarToFadeOut">True</option>
+  <option name="ShowExperienceGain">True</option>
+  <option name="ShowLocationOfTownsPeople">True</option>
+  <option name="ShowBirthdayIcon">True</option>
+  <option name="ShowHeartFills">True</option>
+  <option name="ShowAnimalsNeedPets">True</option>
+  <option name="DisplayCalendarAndBillboard">True</option>
+  <option name="ShowCropAndBarrelTooltip">True</option>
+  <option name="ShowItemEffectRanges">True</option>
+  <option name="ShowExtraItemInformation">True</option>
+  <option name="ShowTravelingMerchant">True</option>
+  <option name="ShowHarvestPricesInShop">True</option>
+  <option name="ShowWhenNewRecipesAreAvailable">True</option>
+  <option name="ShowToolUpgradeStatus">True</option>
+  <option name="1926701726">True</option>
+  <option name="1960779330">True</option>
+  <option name="25257398">True</option>
+  <option name="-997172755">True</option>
+  <option name="-479280784">True</option>
+  <option name="378752639">True</option>
+  <option name="-1887447214">True</option>
+  <option name="39716468">True</option>
+  <option name="506966774">True</option>
+  <option name="1514193305">True</option>
+  <option name="434922963">True</option>
+</options>

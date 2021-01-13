@@ -1,0 +1,64 @@
+{
+  "Version": "1.5.1",
+  "ChestEntries": [
+    {
+      "Address": {
+        "LocationType": "Normal",
+        "LocationName": "FarmHouse",
+        "BuildingName": "",
+        "Tile": "1, 9"
+      },
+      "AcceptedItems": {}
+    },
+    {
+      "Address": {
+        "LocationType": "Normal",
+        "LocationName": "Farm",
+        "BuildingName": "",
+        "Tile": "0, -50"
+      },
+      "AcceptedItems": {}
+    },
+    {
+      "Address": {
+        "LocationType": "Normal",
+        "LocationName": "Farm",
+        "BuildingName": "",
+        "Tile": "93, 51"
+      },
+      "AcceptedItems": {
+        "Object": "78,281,404,18,22,829,408,283,20,851,257,422,420,92,416,399,16,412"
+      }
+    },
+    {
+      "Address": {
+        "LocationType": "Normal",
+        "LocationName": "Farm",
+        "BuildingName": "",
+        "Tile": "97, 51"
+      },
+      "AcceptedItems": {
+        "Fish": "705,129,160,800,838,132,700,2009,142,143,702,2010,718,717,716,159,704,148,267,2013,156,775,902,708,147,161,2037,136,162,163,900,707,837,715,269,798,2046,899,719,682,149,723,141,722,144,128,2051,901,138,146,150,139,164,131,165,154,706,720,796,137,721,898,799,151,2058,836,158,698,145,155,699,701,130,2067,795,140,734",
+        "Object": "2052"
+      }
+    },
+    {
+      "Address": {
+        "LocationType": "Normal",
+        "LocationName": "Farm",
+        "BuildingName": "",
+        "Tile": "92, 51"
+      },
+      "AcceptedItems": {}
+    },
+    {
+      "Address": {
+        "LocationType": "Normal",
+        "LocationName": "Beach",
+        "BuildingName": "",
+        "Tile": "84, 38"
+      },
+      "AcceptedItems": {}
+    }
+  ]
+}

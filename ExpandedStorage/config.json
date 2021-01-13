@@ -1,7 +1,12 @@
 {
   "AllowModdedCapacity": true,
+  "AllowCarryingChests": true,
   "ExpandVanillaChests": true,
   "ExpandInventoryMenu": true,
   "ShowOverlayArrows": true,
-  "ShowSearchBar": true
+  "ShowSearchBar": true,
+  "Controls": {
+    "ScrollUp": "DPadUp",
+    "ScrollDown": "DPadDown"
+  }
 }
