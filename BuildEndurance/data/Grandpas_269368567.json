@@ -1,10 +1,10 @@
 {
-  "CurrentLevel": 20,
-  "CurrentExp": 249.12834760718664,
-  "ExpToNextLevel": 327.33074785892188,
+  "CurrentLevel": 26,
+  "CurrentExp": 282.76059829892165,
+  "ExpToNextLevel": 757.13591025516132,
   "BaseStaminaBonus": 0,
-  "CurrentLevelStaminaBonus": 20,
+  "CurrentLevelStaminaBonus": 26,
   "ClearModEffects": false,
-  "OriginalMaxStamina": 291,
-  "NightlyStamina": 311
+  "OriginalMaxStamina": 270,
+  "NightlyStamina": 296
 }

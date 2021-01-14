@@ -1,0 +1,95 @@
+{
+  "Format": "1.18.0",
+  "Changes": [
+//Scarecrow
+    {
+      "Action": "EditImage",
+      "Target": "TileSheets/Craftables",
+      "FromFile": "assets/seasonal_scarecrows_{{season}}.png",
+        "FromArea": { "X": 0, "Y": 0, "Width": 16, "Height": 32 },
+        "ToArea": { "X": 0, "Y": 32, "Width": 16, "Height": 32 },
+        "Patchmode": "Replace"
+    },
+//TurnipHead
+    {
+      "Action": "EditImage",
+      "Target": "TileSheets/Craftables",
+      "FromFile": "assets/seasonal_scarecrows_{{season}}.png",
+        "FromArea": { "X": 16, "Y": 0, "Width": 16, "Height": 32 },
+        "ToArea": { "X": 96, "Y": 416, "Width": 16, "Height": 32 },
+        "Patchmode": "Replace"
+    },
+//Witch
+    {
+      "Action": "EditImage",
+      "Target": "TileSheets/Craftables",
+      "FromFile": "assets/seasonal_scarecrows_{{season}}.png",
+        "FromArea": { "X": 32, "Y": 0, "Width": 16, "Height": 32 },
+        "ToArea": { "X": 16, "Y": 448, "Width": 16, "Height": 32 },
+        "Patchmode": "Replace"
+    },
+//Alien
+    {
+      "Action": "EditImage",
+      "Target": "TileSheets/Craftables",
+      "FromFile": "assets/seasonal_scarecrows_{{season}}.png",
+        "FromArea": { "X": 48, "Y": 0, "Width": 16, "Height": 32 },
+        "ToArea": { "X": 96, "Y": 480, "Width": 16, "Height": 32 },
+        "Patchmode": "Replace"
+    },
+//Snowman
+    {
+      "Action": "EditImage",
+      "Target": "TileSheets/Craftables",
+      "FromFile": "assets/seasonal_scarecrows_{{season}}.png",
+        "FromArea": { "X": 64, "Y": 0, "Width": 16, "Height": 32 },
+        "ToArea": { "X": 0, "Y": 544, "Width": 16, "Height": 32 },
+        "Patchmode": "Replace"
+    },
+//Girl
+    {
+      "Action": "EditImage",
+      "Target": "TileSheets/Craftables",
+      "FromFile": "assets/seasonal_scarecrows_{{season}}.png",
+        "FromArea": { "X": 80, "Y": 0, "Width": 16, "Height": 32 },
+        "ToArea": { "X": 16, "Y": 544, "Width": 16, "Height": 32 },
+        "Patchmode": "Replace"
+    },
+//Dwarf
+    {
+      "Action": "EditImage",
+      "Target": "TileSheets/Craftables",
+      "FromFile": "assets/seasonal_scarecrows_{{season}}.png",
+        "FromArea": { "X": 96, "Y": 0, "Width": 16, "Height": 32 },
+        "ToArea": { "X": 32, "Y": 544, "Width": 16, "Height": 32 },
+        "Patchmode": "Replace"
+    },
+//Raccoon
+    {
+      "Action": "EditImage",
+      "Target": "TileSheets/Craftables",
+      "FromFile": "assets/seasonal_scarecrows_{{season}}.png",
+        "FromArea": { "X": 112, "Y": 0, "Width": 16, "Height": 32 },
+        "ToArea": { "X": 48, "Y": 544, "Width": 16, "Height": 32 },
+        "Patchmode": "Replace"
+    },
+//Mask
+    {
+      "Action": "EditImage",
+      "Target": "TileSheets/Craftables",
+      "FromFile": "assets/seasonal_scarecrows_{{season}}.png",
+        "FromArea": { "X": 128, "Y": 0, "Width": 16, "Height": 32 },
+        "ToArea": { "X": 64, "Y": 544, "Width": 16, "Height": 32 },
+        "Patchmode": "Replace"
+    },
+//Deluxe
+    {
+      "Action": "EditImage",
+      "Target": "TileSheets/Craftables",
+      "FromFile": "assets/seasonal_scarecrows_{{season}}.png",
+        "FromArea": { "X": 144, "Y": 0, "Width": 16, "Height": 32 },
+        "ToArea": { "X": 112, "Y": 640, "Width": 16, "Height": 32 },
+        "Patchmode": "Replace"
+    },
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "AddCookingMenu": true,
+  "AddCookingCommunityCentreBundles": true,
+  "AddCookingSkillAndRecipes": true,
+  "AddCookingToolProgression": true,
+  "AddNewCropsAndStuff": true,
+  "AddRecipeRebalancing": true,
+  "PlayCookingAnimation": true,
+  "HideFoodBuffsUntilEaten": true,
+  "FoodHealingTakesTime": false,
+  "FoodCanBurn": false,
+  "DebugMode": false,
+  "DebugRegenTracker": false,
+  "ConsoleCommandPrefix": "cac",
+  "ResizeKoreanFonts": true
+}

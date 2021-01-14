@@ -1,0 +1,12 @@
+{
+   "Name": "Seasonal Scarecrows",
+   "Author": "WitchyStella",
+   "Version": "1.0.0",
+   "Description": "Replaces the regular scarecrows with seasonal ones.",
+   "UniqueID": "WitchyStella.Seasonal_Scarecrows",
+   "MinimumApiVersion": "3.0.0",
+   "UpdateKeys": [],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+   }
+}

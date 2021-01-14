@@ -1,0 +1,10 @@
+{
+  "CurrentLevel": 0,
+  "CurrentExp": 10.0,
+  "ExpToNextLevel": 20.0,
+  "BaseStaminaBonus": 0,
+  "CurrentLevelStaminaBonus": 0,
+  "ClearModEffects": false,
+  "OriginalMaxStamina": 270,
+  "NightlyStamina": 270
+}

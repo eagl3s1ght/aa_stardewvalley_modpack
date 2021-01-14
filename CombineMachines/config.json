@@ -1,8 +1,10 @@
 {
-  "CreatedByVersionString": "1.0.3",
+  "CreatedByVersionString": "1.0.5",
   "NumberOpacity": 1.0,
   "DrawToolTip": true,
   "ToolTipOffset": "0, 0",
+  "ToolTipShowDuration": true,
+  "ToolTipShowQuantity": true,
   "MinimumEffect": 0.25,
   "CombinePenalty": 0.03,
   "CombineKeyNames": [

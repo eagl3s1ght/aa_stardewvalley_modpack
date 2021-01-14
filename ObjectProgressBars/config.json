@@ -4,5 +4,5 @@
     "mouseLeft": false,
     "mouseRight": false
   },
-  "DisplayProgressBars": true
+  "DisplayProgressBars": false
 }
