@@ -2,7 +2,7 @@
   "instance": "e526829e-878a-4b4f-b193-1d6924a7f588",
   "version": 1,
   "deploymentMethod": "hardlink_activator",
-  "deploymentTime": 1610589119056,
+  "deploymentTime": 1610594484489,
   "stagingPath": "C:\\Users\\anton\\AppData\\Roaming\\Vortex\\stardewvalley\\mods",
   "targetPath": "C:\\Program Files\\Steamy\\steamapps\\common\\Stardew Valley\\Mods",
   "files": [
@@ -3527,12 +3527,6 @@
       "source": "UI Info Suite 1.9.1-unofficial.2-Strobe",
       "target": "",
       "time": 1609945227000
-    },
-    {
-      "relPath": "UI Info Suite\\Eagles_modData.xml",
-      "source": "UI Info Suite 1.9.1-unofficial.2-Strobe",
-      "target": "",
-      "time": 1610579317000
     },
     {
       "relPath": "AnimalsDontEatGrass\\AnimalsDontEatGrass.pdb",
@@ -8797,18 +8791,6 @@
       "time": 1608654056000
     },
     {
-      "relPath": "ModUpdateMenu\\manifest.json",
-      "source": "Mod Update Menu-2536-1-6-0-1596414474",
-      "target": "",
-      "time": 1596414154000
-    },
-    {
-      "relPath": "ModUpdateMenu\\ModUpdateMenu.dll",
-      "source": "Mod Update Menu-2536-1-6-0-1596414474",
-      "target": "",
-      "time": 1596414159000
-    },
-    {
       "relPath": "ManaBar\\TiledNet.pdb",
       "source": "Magic_ManaBar",
       "target": "",
@@ -8857,22 +8839,10 @@
       "time": 1609663036000
     },
     {
-      "relPath": "ModUpdateMenu\\assets\\updateButton.png",
-      "source": "Mod Update Menu-2536-1-6-0-1596414474",
-      "target": "",
-      "time": 1565050834000
-    },
-    {
       "relPath": "NonDestructiveNPCs\\NonDestructiveNPCs.pdb",
       "source": "Non Destructive NPCs-5176-1-0-0-1578865782",
       "target": "",
       "time": 1578869312000
-    },
-    {
-      "relPath": "ModUpdateMenu\\assets\\statusIcons.png",
-      "source": "Mod Update Menu-2536-1-6-0-1596414474",
-      "target": "",
-      "time": 1565050834000
     },
     {
       "relPath": "ObjectProgressBars\\manifest.json",
@@ -8885,12 +8855,6 @@
       "source": "Movement Speed-2736-3-1-1608654286",
       "target": "",
       "time": 1608654056000
-    },
-    {
-      "relPath": "ModUpdateMenu\\ModUpdateMenu.pdb",
-      "source": "Mod Update Menu-2536-1-6-0-1596414474",
-      "target": "",
-      "time": 1596414159000
     },
     {
       "relPath": "ManaBar\\TiledNet.dll",
@@ -9739,22 +9703,10 @@
       "time": 1610023307000
     },
     {
-      "relPath": "GenericModConfigMenu\\manifest.json",
-      "source": "GenericModConfigMenu 1.2.1.zip-5098-1-2-1-1609895182",
-      "target": "",
-      "time": 1609873430000
-    },
-    {
       "relPath": "JoysOfEfficiency\\i18n\\ru.json",
       "source": "JoE 1.4.1-2162-1-4-1-1608952291",
       "target": "",
       "time": 1608981022000
-    },
-    {
-      "relPath": "GenericModConfigMenu\\GenericModConfigMenu.pdb",
-      "source": "GenericModConfigMenu 1.2.1.zip-5098-1-2-1-1609895182",
-      "target": "",
-      "time": 1609873430000
     },
     {
       "relPath": "FriendsForever\\FriendsForever.pdb",
@@ -9997,12 +9949,6 @@
       "time": 1609796130000
     },
     {
-      "relPath": "GenericModConfigMenu\\GenericModConfigMenu.dll",
-      "source": "GenericModConfigMenu 1.2.1.zip-5098-1-2-1-1609895182",
-      "target": "",
-      "time": 1609873430000
-    },
-    {
       "relPath": "FriendsForever\\manifest.json",
       "source": "Friends Forever 1.2.3-1738-1-2-3-1559801839",
       "target": "",
@@ -10093,24 +10039,6 @@
       "time": 1607865484000
     },
     {
-      "relPath": "EntoaroxUtilities\\EntoaroxUtilities.pdb",
-      "source": "Entoarox Modding Utilities 0.1.2-5521-0-1-2-1608729317",
-      "target": "",
-      "time": 1608729274000
-    },
-    {
-      "relPath": "EntoaroxUtilities\\EntoaroxUtilities.dll",
-      "source": "Entoarox Modding Utilities 0.1.2-5521-0-1-2-1608729317",
-      "target": "",
-      "time": 1608729274000
-    },
-    {
-      "relPath": "EntoaroxUtilities\\changelog.txt",
-      "source": "Entoarox Modding Utilities 0.1.2-5521-0-1-2-1608729317",
-      "target": "",
-      "time": 1608729274000
-    },
-    {
       "relPath": "Grandpa's Farm\\[CP] Grandpa's Farm\\assets\\Maps\\WorldMaps\\spring_GrandpasFarm_Map.png",
       "source": "Grandpa's Farm-3753-1-12-3-1609356615",
       "target": "",
@@ -10129,64 +10057,10 @@
       "time": 1607943036000
     },
     {
-      "relPath": "EntoaroxUtilities\\assets\\Wallpaper.json",
-      "source": "Entoarox Modding Utilities 0.1.2-5521-0-1-2-1608729317",
-      "target": "",
-      "time": 1608729274000
-    },
-    {
-      "relPath": "EntoaroxUtilities\\assets\\Ring.json",
-      "source": "Entoarox Modding Utilities 0.1.2-5521-0-1-2-1608729317",
-      "target": "",
-      "time": 1608729274000
-    },
-    {
       "relPath": "Grandpa's Farm\\[CP] Grandpa's Farm\\assets\\Maps\\WorldMaps\\winter_GrandpasFarm_Map.png",
       "source": "Grandpa's Farm-3753-1-12-3-1609356615",
       "target": "",
       "time": 1607943816000
-    },
-    {
-      "relPath": "EntoaroxUtilities\\assets\\Object.json",
-      "source": "Entoarox Modding Utilities 0.1.2-5521-0-1-2-1608729317",
-      "target": "",
-      "time": 1608729274000
-    },
-    {
-      "relPath": "EntoaroxUtilities\\assets\\Hat.json",
-      "source": "Entoarox Modding Utilities 0.1.2-5521-0-1-2-1608729317",
-      "target": "",
-      "time": 1608729274000
-    },
-    {
-      "relPath": "EntoaroxUtilities\\assets\\Furniture.json",
-      "source": "Entoarox Modding Utilities 0.1.2-5521-0-1-2-1608729317",
-      "target": "",
-      "time": 1608729274000
-    },
-    {
-      "relPath": "EntoaroxUtilities\\assets\\Floor.json",
-      "source": "Entoarox Modding Utilities 0.1.2-5521-0-1-2-1608729317",
-      "target": "",
-      "time": 1608729274000
-    },
-    {
-      "relPath": "EntoaroxUtilities\\assets\\Craftable.json",
-      "source": "Entoarox Modding Utilities 0.1.2-5521-0-1-2-1608729317",
-      "target": "",
-      "time": 1608729274000
-    },
-    {
-      "relPath": "EntoaroxUtilities\\assets\\Boots.json",
-      "source": "Entoarox Modding Utilities 0.1.2-5521-0-1-2-1608729317",
-      "target": "",
-      "time": 1608729274000
-    },
-    {
-      "relPath": "EntoaroxUtilities\\assets\\Clothing.json",
-      "source": "Entoarox Modding Utilities 0.1.2-5521-0-1-2-1608729317",
-      "target": "",
-      "time": 1608729274000
     },
     {
       "relPath": "DeluxeHats\\manifest.json",
@@ -10243,18 +10117,6 @@
       "time": 1609796130000
     },
     {
-      "relPath": "GenericModConfigMenu\\assets\\config-button.png",
-      "source": "GenericModConfigMenu 1.2.1.zip-5098-1-2-1-1609895182",
-      "target": "",
-      "time": 1609873430000
-    },
-    {
-      "relPath": "EntoaroxUtilities\\manifest.json",
-      "source": "Entoarox Modding Utilities 0.1.2-5521-0-1-2-1608729317",
-      "target": "",
-      "time": 1608729274000
-    },
-    {
       "relPath": "FarmTypeManager\\data\\Grandpas_270260389_SaveData.save",
       "source": "Farm Type Manager v1.13.1-3231-1-13-1-1610410583",
       "target": "",
@@ -10271,12 +10133,6 @@
       "source": "CabinOwnerDisplayed-3036-1-0-1-1551134153",
       "target": "",
       "time": 1551108908000
-    },
-    {
-      "relPath": "EntoaroxUtilities\\assets\\Weapon.json",
-      "source": "Entoarox Modding Utilities 0.1.2-5521-0-1-2-1608729317",
-      "target": "",
-      "time": 1608729274000
     },
     {
       "relPath": "CookingSkill\\manifest.json",
@@ -10471,18 +10327,6 @@
       "time": 1608503656000
     },
     {
-      "relPath": "AntiSocialNPCs\\AntiSocial.dll",
-      "source": "AntiSocialNPCs-5371-1-0-2-1585159941",
-      "target": "",
-      "time": 1585130918000
-    },
-    {
-      "relPath": "AntiSocialNPCs\\AntiSocial.pdb",
-      "source": "AntiSocialNPCs-5371-1-0-2-1585159941",
-      "target": "",
-      "time": 1585130918000
-    },
-    {
       "relPath": "ArtifactSystemFixed\\ArtifactSystemFixed.pdb",
       "source": "ArtifactSystemFixed 1.0.3-unofficial.1-Xebeth",
       "target": "",
@@ -10649,12 +10493,6 @@
       "source": "AnimalSitter 1.1.1-unofficial.5-felipemorais92",
       "target": "",
       "time": 1609457172000
-    },
-    {
-      "relPath": "AntiSocialNPCs\\manifest.json",
-      "source": "AntiSocialNPCs-5371-1-0-2-1585159941",
-      "target": "",
-      "time": 1585130918000
     },
     {
       "relPath": "Automate\\manifest.json",
@@ -10993,64 +10831,10 @@
       "time": 1610565582000
     },
     {
-      "relPath": "ProducerFrameworkMod\\ContentPackTemplate\\Config.json",
-      "source": "ProducerFrameworkMod-v1.5.0-4970-1-5-0-1610069568",
-      "target": "",
-      "time": 1609790624000
-    },
-    {
-      "relPath": "LoveOfCooking\\config.json",
-      "source": "Love of Cooking-6830-1-0-6-1610454382",
-      "target": "",
-      "time": 1610588019000
-    },
-    {
       "relPath": "[FTM] Better Quarry Redux\\data\\Grandpas_270264708_SaveData.save",
       "source": "Better Quarry Redux-5170-1-0-0-1578805461",
       "target": "",
       "time": 1610588021000
-    },
-    {
-      "relPath": "ProducerFrameworkMod\\i18n\\ru.json",
-      "source": "ProducerFrameworkMod-v1.5.0-4970-1-5-0-1610069568",
-      "target": "",
-      "time": 1609722090000
-    },
-    {
-      "relPath": "ProducerFrameworkMod\\ContentPackTemplate\\manifest.json",
-      "source": "ProducerFrameworkMod-v1.5.0-4970-1-5-0-1610069568",
-      "target": "",
-      "time": 1577211420000
-    },
-    {
-      "relPath": "ProducerFrameworkMod\\ContentPackTemplate\\ProducerRules.json",
-      "source": "ProducerFrameworkMod-v1.5.0-4970-1-5-0-1610069568",
-      "target": "",
-      "time": 1609804730000
-    },
-    {
-      "relPath": "ProducerFrameworkMod\\i18n\\pt.json",
-      "source": "ProducerFrameworkMod-v1.5.0-4970-1-5-0-1610069568",
-      "target": "",
-      "time": 1583086610000
-    },
-    {
-      "relPath": "ProducerFrameworkMod\\i18n\\default.json",
-      "source": "ProducerFrameworkMod-v1.5.0-4970-1-5-0-1610069568",
-      "target": "",
-      "time": 1583086610000
-    },
-    {
-      "relPath": "ProducerFrameworkMod\\ContentPackTemplate\\ProducersConfig.json",
-      "source": "ProducerFrameworkMod-v1.5.0-4970-1-5-0-1610069568",
-      "target": "",
-      "time": 1583086610000
-    },
-    {
-      "relPath": "ProducerFrameworkMod\\i18n\\de.json",
-      "source": "ProducerFrameworkMod-v1.5.0-4970-1-5-0-1610069568",
-      "target": "",
-      "time": 1585407334000
     },
     {
       "relPath": "WearMoreRings\\manifest.json",
@@ -11077,18 +10861,6 @@
       "time": 1610114500000
     },
     {
-      "relPath": "CustomNPCExclusions\\CustomNPCExclusions.pdb",
-      "source": "Custom NPC Exclusions v1.2.0-7089-1-2-0-1610491370",
-      "target": "",
-      "time": 1610465058000
-    },
-    {
-      "relPath": "CustomNPCExclusions\\CustomNPCExclusions.dll",
-      "source": "Custom NPC Exclusions v1.2.0-7089-1-2-0-1610491370",
-      "target": "",
-      "time": 1610465058000
-    },
-    {
       "relPath": "SkipIntro\\manifest.json",
       "source": "Skip Intro 1.9-533-1-9-0-1609741789",
       "target": "",
@@ -11101,18 +10873,6 @@
       "time": 1609716416000
     },
     {
-      "relPath": "CustomNPCExclusions\\manifest.json",
-      "source": "Custom NPC Exclusions v1.2.0-7089-1-2-0-1610491370",
-      "target": "",
-      "time": 1610465058000
-    },
-    {
-      "relPath": "ProducerFrameworkMod\\ProducerFrameworkMod.dll",
-      "source": "ProducerFrameworkMod-v1.5.0-4970-1-5-0-1610069568",
-      "target": "",
-      "time": 1610052672000
-    },
-    {
       "relPath": "RemoteFridgeStorage\\RemoteFridgeStorage.dll",
       "source": "Remote Fridge Storage 1.8.1-2545-1-8-1-1609850521",
       "target": "",
@@ -11123,12 +10883,6 @@
       "source": "Remote Fridge Storage 1.8.1-2545-1-8-1-1609850521",
       "target": "",
       "time": 1609768233000
-    },
-    {
-      "relPath": "ProducerFrameworkMod\\manifest.json",
-      "source": "ProducerFrameworkMod-v1.5.0-4970-1-5-0-1610069568",
-      "target": "",
-      "time": 1609891778000
     },
     {
       "relPath": "SkipIntro\\SkipIntro.pdb",
@@ -11149,12 +10903,6 @@
       "time": 1609329573000
     },
     {
-      "relPath": "ProducerFrameworkMod\\ProducerFrameworkMod.pdb",
-      "source": "ProducerFrameworkMod-v1.5.0-4970-1-5-0-1610069568",
-      "target": "",
-      "time": 1610052672000
-    },
-    {
       "relPath": "RemoteFridgeStorage\\assets\\fridge-flipped.png",
       "source": "Remote Fridge Storage 1.8.1-2545-1-8-1-1609850521",
       "target": "",
@@ -11167,40 +10915,10 @@
       "time": 1609768073000
     },
     {
-      "relPath": "MailFrameworkMod\\MailFrameworkMod.dll",
-      "source": "MailFrameworkMod-v1.8.0-1536-1-8-0-1610510394",
-      "target": "",
-      "time": 1610495420000
-    },
-    {
-      "relPath": "MailFrameworkMod\\manifest.json",
-      "source": "MailFrameworkMod-v1.8.0-1536-1-8-0-1610510394",
-      "target": "",
-      "time": 1610490808000
-    },
-    {
       "relPath": "RemoteFridgeStorage\\assets\\fridge2.png",
       "source": "Remote Fridge Storage 1.8.1-2545-1-8-1-1609850521",
       "target": "",
       "time": 1609329573000
-    },
-    {
-      "relPath": "MailFrameworkMod\\ContentPackTemplate\\manifest.json",
-      "source": "MailFrameworkMod-v1.8.0-1536-1-8-0-1610510394",
-      "target": "",
-      "time": 1574252100000
-    },
-    {
-      "relPath": "MailFrameworkMod\\MailFrameworkMod.pdb",
-      "source": "MailFrameworkMod-v1.8.0-1536-1-8-0-1610510394",
-      "target": "",
-      "time": 1610495420000
-    },
-    {
-      "relPath": "MailFrameworkMod\\ContentPackTemplate\\mail.json",
-      "source": "MailFrameworkMod-v1.8.0-1536-1-8-0-1610510394",
-      "target": "",
-      "time": 1610495062000
     },
     {
       "relPath": "LookupAnything\\LookupAnything.pdb",
@@ -11359,238 +11077,10 @@
       "time": 1610210100000
     },
     {
-      "relPath": "RemoteFridgeStorage\\config.json",
-      "source": "Remote Fridge Storage 1.8.1-2545-1-8-1-1609850521",
-      "target": "",
-      "time": 1609769498000
-    },
-    {
       "relPath": "CombineMachines\\i18n\\zh.json",
       "source": "Combine Machines 1.0.5-7411-1-0-5-1610231770",
       "target": "",
       "time": 1610210100000
-    },
-    {
-      "relPath": "Stardew Valley Expanded\\[FTM] Stardew Valley Expanded\\content.json",
-      "source": "Stardew Valley Expanded",
-      "target": "",
-      "time": 1610588021000
-    },
-    {
-      "relPath": "UI Info Suite\\config.json",
-      "source": "UI Info Suite 1.9.1-unofficial.2-Strobe",
-      "target": "",
-      "time": 1610588020000
-    },
-    {
-      "relPath": "SkillPrestige\\Data.json",
-      "source": "SkillPrestige 1.2.4-unofficial.13-Jiopaba",
-      "target": "",
-      "time": 1610588019000
-    },
-    {
-      "relPath": "Magic\\config.json",
-      "source": "Magic_ManaBar",
-      "target": "",
-      "time": 1610587932000
-    },
-    {
-      "relPath": "Grandpa's Farm\\[CP] Grandpa's Farm\\config.json",
-      "source": "Grandpa's Farm-3753-1-12-3-1609356615",
-      "target": "",
-      "time": 1610587942000
-    },
-    {
-      "relPath": "[FTM] Better Quarry Redux\\content.json",
-      "source": "Better Quarry Redux-5170-1-0-0-1578805461",
-      "target": "",
-      "time": 1610588021000
-    },
-    {
-      "relPath": "Grandpa's Farm\\[FTM] Grandpa's Farm\\content.json",
-      "source": "Grandpa's Farm-3753-1-12-3-1609356615",
-      "target": "",
-      "time": 1610588021000
-    },
-    {
-      "relPath": "Always On Server\\InviteCode.txt",
-      "source": "Always On Server 1.20.2-unofficial.1-slamerz (2)",
-      "target": "",
-      "time": 1610588019000
-    },
-    {
-      "relPath": "Always On Server\\ConnectionsCount.txt",
-      "source": "Always On Server 1.20.2-unofficial.1-slamerz (2)",
-      "target": "",
-      "time": 1610588019000
-    },
-    {
-      "relPath": "TMXLoader\\config.json",
-      "source": "TMXL Map Toolkit-1820-1-22-0-1608774440.1",
-      "target": "",
-      "time": 1610587920000
-    },
-    {
-      "relPath": "WinterGrass\\config.json",
-      "source": "Winter Grass-1601-2-0-3-1608585082.1",
-      "target": "",
-      "time": 1610587934000
-    },
-    {
-      "relPath": "UnlimitedPlayers\\config.json",
-      "source": "2020_02_15_UnlimitedPlayers-2213-2020-2-15-1581730381",
-      "target": "",
-      "time": 1610587933000
-    },
-    {
-      "relPath": "SkillPrestige\\config.json",
-      "source": "SkillPrestige 1.2.4-unofficial.13-Jiopaba",
-      "target": "",
-      "time": 1610587933000
-    },
-    {
-      "relPath": "SpriteMaster\\config.toml",
-      "source": "SpriteMaster 1st Anniversary Edition-4922-0-12-0-RC1-1610318846",
-      "target": "",
-      "time": 1610587933000
-    },
-    {
-      "relPath": "GreenhouseSprinklers\\config.json",
-      "source": "Greenhouse Sprinklers-7456-1-3-3-1610477929",
-      "target": "",
-      "time": 1610587921000
-    },
-    {
-      "relPath": "Sounds Patcher\\config.json",
-      "source": "Sounds Patcher-7465-1-0-0-1609611357",
-      "target": "",
-      "time": 1610587933000
-    },
-    {
-      "relPath": "SimpleCropLabel\\config.json",
-      "source": "Simple Crop Label-314-5-5-6-1608662325",
-      "target": "",
-      "time": 1610587933000
-    },
-    {
-      "relPath": "ObjectProgressBars\\config.json",
-      "source": "ObjectProgressBars-2803-1-3-1552376783",
-      "target": "",
-      "time": 1610588180000
-    },
-    {
-      "relPath": "PelicanTTS\\config.json",
-      "source": "PelicanTTS-1079-1-10-0-1608774479",
-      "target": "",
-      "time": 1610587945000
-    },
-    {
-      "relPath": "ShopTileFramework\\config.json",
-      "source": "Shop Tile Framework-5005-1-0-9-1608583142",
-      "target": "",
-      "time": 1610587933000
-    },
-    {
-      "relPath": "MovementSpeed\\config.json",
-      "source": "Movement Speed-2736-3-1-1608654286",
-      "target": "",
-      "time": 1610587932000
-    },
-    {
-      "relPath": "JoysOfEfficiency\\customAnimalTools.json",
-      "source": "JoE 1.4.1-2162-1-4-1-1608952291",
-      "target": "",
-      "time": 1610587922000
-    },
-    {
-      "relPath": "JoysOfEfficiency\\config.json",
-      "source": "JoE 1.4.1-2162-1-4-1-1608952291",
-      "target": "",
-      "time": 1610588136000
-    },
-    {
-      "relPath": "HarvestWithScythe\\config.json",
-      "source": "Harvest With Scythe-2731-3-0-1580575895",
-      "target": "",
-      "time": 1610587921000
-    },
-    {
-      "relPath": "GiantCropRing\\config.json",
-      "source": "Giant Crop Ring-1182-1-4-1-1581316148",
-      "target": "",
-      "time": 1610587921000
-    },
-    {
-      "relPath": "FriendsForever\\config.json",
-      "source": "Friends Forever 1.2.3-1738-1-2-3-1559801839",
-      "target": "",
-      "time": 1610587921000
-    },
-    {
-      "relPath": "FishInfo\\config.json",
-      "source": "Fish Info-5452-1-5-1609799986",
-      "target": "",
-      "time": 1610587921000
-    },
-    {
-      "relPath": "CustomMusic\\config.json",
-      "source": "Stardew Valley Expanded",
-      "target": "",
-      "time": 1610587919000
-    },
-    {
-      "relPath": "ExperienceBars\\config.json",
-      "source": "ExperienceBars 1.2.1",
-      "target": "",
-      "time": 1610587921000
-    },
-    {
-      "relPath": "FarmTypeManager\\config.json",
-      "source": "Farm Type Manager v1.13.1-3231-1-13-1-1610410583",
-      "target": "",
-      "time": 1610588021000
-    },
-    {
-      "relPath": "BetterRanching\\config.json",
-      "source": "BetterRanching-859-1-8-0-1609120802",
-      "target": "",
-      "time": 1610587916000
-    },
-    {
-      "relPath": "BuildEndurance\\config.json",
-      "source": "Build Endurance-445-1-8-2-1574901464",
-      "target": "",
-      "time": 1610587918000
-    },
-    {
-      "relPath": "Automate\\config.json",
-      "source": "Automate 1.19-1063-1-19-0-1608574964",
-      "target": "",
-      "time": 1610587916000
-    },
-    {
-      "relPath": "ArtifactSystemFixed\\config.json",
-      "source": "ArtifactSystemFixed 1.0.3-unofficial.1-Xebeth",
-      "target": "",
-      "time": 1610587916000
-    },
-    {
-      "relPath": "AnimalSitter\\config.json",
-      "source": "AnimalSitter 1.1.1-unofficial.5-felipemorais92",
-      "target": "",
-      "time": 1610587916000
-    },
-    {
-      "relPath": "AngryGrandpa\\config.json",
-      "source": "Angry Grandpa v1.2.0-6324-1-2-0-1595641863",
-      "target": "",
-      "time": 1610587916000
-    },
-    {
-      "relPath": "Always On Server\\config.json",
-      "source": "Always On Server 1.20.2-unofficial.1-slamerz (2)",
-      "target": "",
-      "time": 1610588192000
     },
     {
       "relPath": "DeluxeGrabber 2.5.3-unofficial.6-Frogfrag\\manifest.json",
@@ -11747,6 +11237,306 @@
       "source": "1.3.36-RushOrders-1.1.4.zip-605-1-1-4-1557622186",
       "target": "",
       "time": 1557491986000
+    },
+    {
+      "relPath": "[FTM] Better Quarry Redux\\data\\Grandpas_270265933_SaveData.save",
+      "source": "Better Quarry Redux-5170-1-0-0-1578805461",
+      "target": "",
+      "time": 1610590149000
+    },
+    {
+      "relPath": "PelicanTTS\\TTS\\default\\speech_Salli_-1238566030.wav",
+      "source": "PelicanTTS-1079-1-10-0-1608774479",
+      "target": "",
+      "time": 1610590052000
+    },
+    {
+      "relPath": "PelicanTTS\\TTS\\default\\speech_Salli_-1720021759.wav",
+      "source": "PelicanTTS-1079-1-10-0-1608774479",
+      "target": "",
+      "time": 1610590153000
+    },
+    {
+      "relPath": "UI Info Suite\\Eagles_modData.xml",
+      "source": "UI Info Suite 1.9.1-unofficial.2-Strobe",
+      "target": "",
+      "time": 1610590149000
+    },
+    {
+      "relPath": "PelicanTTS\\TTS\\default\\speech_Salli_-545356604.wav",
+      "source": "PelicanTTS-1079-1-10-0-1608774479",
+      "target": "",
+      "time": 1610589264000
+    },
+    {
+      "relPath": "CombineMachines\\config.json",
+      "source": "Combine Machines 1.0.5-7411-1-0-5-1610231770",
+      "target": "",
+      "time": 1610589145000
+    },
+    {
+      "relPath": "GreenhouseSprinklers\\data\\Grandpas_270265933.json",
+      "source": "Greenhouse Sprinklers-7456-1-3-3-1610477929",
+      "target": "",
+      "time": 1610590146000
+    },
+    {
+      "relPath": "LookupAnything\\config.json",
+      "source": "Lookup Anything 1.32-541-1-32-0-1610427959",
+      "target": "",
+      "time": 1610589156000
+    },
+    {
+      "relPath": "UI Info Suite\\config.json",
+      "source": "UI Info Suite 1.9.1-unofficial.2-Strobe",
+      "target": "",
+      "time": 1610589259000
+    },
+    {
+      "relPath": "LoveOfCooking\\config.json",
+      "source": "Love of Cooking-6830-1-0-6-1610454382",
+      "target": "",
+      "time": 1610589259000
+    },
+    {
+      "relPath": "RemoteFridgeStorage\\config.json",
+      "source": "Remote Fridge Storage 1.8.1-2545-1-8-1-1609850521",
+      "target": "",
+      "time": 1610589158000
+    },
+    {
+      "relPath": "SkillPrestige\\Data.json",
+      "source": "SkillPrestige 1.2.4-unofficial.13-Jiopaba",
+      "target": "",
+      "time": 1610590144000
+    },
+    {
+      "relPath": "Stardew Valley Expanded\\[FTM] Stardew Valley Expanded\\content.json",
+      "source": "Stardew Valley Expanded",
+      "target": "",
+      "time": 1610590149000
+    },
+    {
+      "relPath": "Magic\\config.json",
+      "source": "Magic_ManaBar",
+      "target": "",
+      "time": 1610589157000
+    },
+    {
+      "relPath": "Grandpa's Farm\\[CP] Grandpa's Farm\\config.json",
+      "source": "Grandpa's Farm-3753-1-12-3-1609356615",
+      "target": "",
+      "time": 1610589166000
+    },
+    {
+      "relPath": "[FTM] Better Quarry Redux\\content.json",
+      "source": "Better Quarry Redux-5170-1-0-0-1578805461",
+      "target": "",
+      "time": 1610590149000
+    },
+    {
+      "relPath": "Grandpa's Farm\\[FTM] Grandpa's Farm\\content.json",
+      "source": "Grandpa's Farm-3753-1-12-3-1609356615",
+      "target": "",
+      "time": 1610590149000
+    },
+    {
+      "relPath": "Always On Server\\InviteCode.txt",
+      "source": "Always On Server 1.20.2-unofficial.1-slamerz (2)",
+      "target": "",
+      "time": 1610589259000
+    },
+    {
+      "relPath": "Always On Server\\ConnectionsCount.txt",
+      "source": "Always On Server 1.20.2-unofficial.1-slamerz (2)",
+      "target": "",
+      "time": 1610589259000
+    },
+    {
+      "relPath": "WinterGrass\\config.json",
+      "source": "Winter Grass-1601-2-0-3-1608585082.1",
+      "target": "",
+      "time": 1610589159000
+    },
+    {
+      "relPath": "TMXLoader\\config.json",
+      "source": "TMXL Map Toolkit-1820-1-22-0-1608774440.1",
+      "target": "",
+      "time": 1610589146000
+    },
+    {
+      "relPath": "UnlimitedPlayers\\config.json",
+      "source": "2020_02_15_UnlimitedPlayers-2213-2020-2-15-1581730381",
+      "target": "",
+      "time": 1610589158000
+    },
+    {
+      "relPath": "SkillPrestige\\config.json",
+      "source": "SkillPrestige 1.2.4-unofficial.13-Jiopaba",
+      "target": "",
+      "time": 1610589158000
+    },
+    {
+      "relPath": "SpriteMaster\\config.toml",
+      "source": "SpriteMaster 1st Anniversary Edition-4922-0-12-0-RC1-1610318846",
+      "target": "",
+      "time": 1610589158000
+    },
+    {
+      "relPath": "GreenhouseSprinklers\\config.json",
+      "source": "Greenhouse Sprinklers-7456-1-3-3-1610477929",
+      "target": "",
+      "time": 1610589146000
+    },
+    {
+      "relPath": "Sounds Patcher\\config.json",
+      "source": "Sounds Patcher-7465-1-0-0-1609611357",
+      "target": "",
+      "time": 1610589158000
+    },
+    {
+      "relPath": "SimpleCropLabel\\config.json",
+      "source": "Simple Crop Label-314-5-5-6-1608662325",
+      "target": "",
+      "time": 1610589158000
+    },
+    {
+      "relPath": "PelicanTTS\\config.json",
+      "source": "PelicanTTS-1079-1-10-0-1608774479",
+      "target": "",
+      "time": 1610589170000
+    },
+    {
+      "relPath": "ShopTileFramework\\config.json",
+      "source": "Shop Tile Framework-5005-1-0-9-1608583142",
+      "target": "",
+      "time": 1610589158000
+    },
+    {
+      "relPath": "ObjectProgressBars\\config.json",
+      "source": "ObjectProgressBars-2803-1-3-1552376783",
+      "target": "",
+      "time": 1610589158000
+    },
+    {
+      "relPath": "MovementSpeed\\config.json",
+      "source": "Movement Speed-2736-3-1-1608654286",
+      "target": "",
+      "time": 1610589157000
+    },
+    {
+      "relPath": "JoysOfEfficiency\\config.json",
+      "source": "JoE 1.4.1-2162-1-4-1-1608952291",
+      "target": "",
+      "time": 1610589156000
+    },
+    {
+      "relPath": "JoysOfEfficiency\\customAnimalTools.json",
+      "source": "JoE 1.4.1-2162-1-4-1-1608952291",
+      "target": "",
+      "time": 1610589156000
+    },
+    {
+      "relPath": "GiantCropRing\\config.json",
+      "source": "Giant Crop Ring-1182-1-4-1-1581316148",
+      "target": "",
+      "time": 1610589146000
+    },
+    {
+      "relPath": "HarvestWithScythe\\config.json",
+      "source": "Harvest With Scythe-2731-3-0-1580575895",
+      "target": "",
+      "time": 1610589146000
+    },
+    {
+      "relPath": "FriendsForever\\config.json",
+      "source": "Friends Forever 1.2.3-1738-1-2-3-1559801839",
+      "target": "",
+      "time": 1610589146000
+    },
+    {
+      "relPath": "FishInfo\\config.json",
+      "source": "Fish Info-5452-1-5-1609799986",
+      "target": "",
+      "time": 1610589146000
+    },
+    {
+      "relPath": "ExperienceBars\\config.json",
+      "source": "ExperienceBars 1.2.1",
+      "target": "",
+      "time": 1610589146000
+    },
+    {
+      "relPath": "CustomMusic\\config.json",
+      "source": "Stardew Valley Expanded",
+      "target": "",
+      "time": 1610589145000
+    },
+    {
+      "relPath": "FarmTypeManager\\config.json",
+      "source": "Farm Type Manager v1.13.1-3231-1-13-1-1610410583",
+      "target": "",
+      "time": 1610590149000
+    },
+    {
+      "relPath": "BetterRanching\\config.json",
+      "source": "BetterRanching-859-1-8-0-1609120802",
+      "target": "",
+      "time": 1610589142000
+    },
+    {
+      "relPath": "BuildEndurance\\config.json",
+      "source": "Build Endurance-445-1-8-2-1574901464",
+      "target": "",
+      "time": 1610589143000
+    },
+    {
+      "relPath": "Automate\\config.json",
+      "source": "Automate 1.19-1063-1-19-0-1608574964",
+      "target": "",
+      "time": 1610589142000
+    },
+    {
+      "relPath": "ArtifactSystemFixed\\config.json",
+      "source": "ArtifactSystemFixed 1.0.3-unofficial.1-Xebeth",
+      "target": "",
+      "time": 1610589142000
+    },
+    {
+      "relPath": "AngryGrandpa\\config.json",
+      "source": "Angry Grandpa v1.2.0-6324-1-2-0-1595641863",
+      "target": "",
+      "time": 1610589141000
+    },
+    {
+      "relPath": "AnimalSitter\\config.json",
+      "source": "AnimalSitter 1.1.1-unofficial.5-felipemorais92",
+      "target": "",
+      "time": 1610589142000
+    },
+    {
+      "relPath": "Always On Server\\config.json",
+      "source": "Always On Server 1.20.2-unofficial.1-slamerz (2)",
+      "target": "",
+      "time": 1610590594000
+    },
+    {
+      "relPath": "CustomNPCExclusions\\CustomNPCExclusions.pdb",
+      "source": "Stardew Valley Expanded",
+      "target": "",
+      "time": 1608563830000
+    },
+    {
+      "relPath": "CustomNPCExclusions\\CustomNPCExclusions.dll",
+      "source": "Stardew Valley Expanded",
+      "target": "",
+      "time": 1608563830000
+    },
+    {
+      "relPath": "CustomNPCExclusions\\manifest.json",
+      "source": "Stardew Valley Expanded",
+      "target": "",
+      "time": 1608563830000
     }
   ]
 }

@@ -1,6 +1,64 @@
 {
   "WeatherForYesterday": "Sunny",
-  "LNOSCounter": {},
+  "LNOSCounter": {
+    "Farm Meteorite": 1
+  },
   "ExistingObjectLocations": {},
-  "SavedObjects": []
+  "SavedObjects": [
+    {
+      "MapName": "FarmCliff",
+      "Name": "Gold",
+      "Tile": "5, 7",
+      "Type": "Ore",
+      "ID": 764,
+      "DaysUntilExpire": 5,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "FarmCliff",
+      "Name": "Jade",
+      "Tile": "6, 6",
+      "Type": "Ore",
+      "ID": 6,
+      "DaysUntilExpire": 5,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "FarmCliff",
+      "Name": "Stone",
+      "Tile": "9, 7",
+      "Type": "Ore",
+      "ID": 668,
+      "DaysUntilExpire": 5,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "FarmCliff",
+      "Name": "Stone",
+      "Tile": "5, 8",
+      "Type": "Ore",
+      "ID": 668,
+      "DaysUntilExpire": 5,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "Farm",
+      "Name": null,
+      "Tile": "20, 25",
+      "Type": "LargeObject",
+      "ID": 622,
+      "DaysUntilExpire": 0,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    }
+  ]
 }
